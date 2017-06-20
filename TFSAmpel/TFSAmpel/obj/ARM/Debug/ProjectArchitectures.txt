@@ -1,0 +1,1 @@
+D:\Develop\Repos\develop\TFSAmpel\TFSAmpel\TFSAmpel.csproj;arm
